@@ -2,3 +2,10 @@
 __pycache__/
 *.pyc
 .env
+
+# Ignored PDFs and txt extracts
+API Design Patterns-JJ Geewax-Manning.pdf
+principles-of-web-api-design-delivering-value-with-apis-and-microservices_compress.pdf
+extract_ch1.py
+geewax_start.txt
+higginbotham_start.txt
